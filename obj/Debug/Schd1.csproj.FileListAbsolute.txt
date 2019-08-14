@@ -1,0 +1,7 @@
+C:\Users\Narongsak\Desktop\Schd1\Schd1\bin\Debug\Schd1.exe.config
+C:\Users\Narongsak\Desktop\Schd1\Schd1\bin\Debug\Schd1.exe
+C:\Users\Narongsak\Desktop\Schd1\Schd1\bin\Debug\Schd1.pdb
+C:\Users\Narongsak\Desktop\Schd1\Schd1\obj\Debug\Schd1.csprojResolveAssemblyReference.cache
+C:\Users\Narongsak\Desktop\Schd1\Schd1\obj\Debug\Schd1.csproj.CoreCompileInputs.cache
+C:\Users\Narongsak\Desktop\Schd1\Schd1\obj\Debug\Schd1.exe
+C:\Users\Narongsak\Desktop\Schd1\Schd1\obj\Debug\Schd1.pdb

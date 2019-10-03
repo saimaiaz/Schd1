@@ -1,11 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
 using System.Net;
-using System.Text;
 using System.Threading;
-using System.Threading.Tasks;
-using System.Windows.Forms;
 
 namespace Schd1
 {
@@ -16,7 +11,7 @@ namespace Schd1
             for (; ; )
             {
                 SomeMethod();
-                Thread.Sleep(1000*60*60);
+                Thread.Sleep(60*60*5);
             }
         }
 
